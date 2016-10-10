@@ -13,7 +13,7 @@ The program prints all the 92 solutions in the form of column indices.
 Passed on GCC (Ubuntu 5.4.0-6ubuntu1~16.04.2) 5.4.0, -std=c++11 flag is required.
 
 Note
-====
+----
 The purpose of this code is to minimize the lines, therefore,
 the code will be tricky and hard to read.
 Also, its performance will not be satisfying.
